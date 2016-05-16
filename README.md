@@ -1,4 +1,4 @@
-Bolivia-maphilight
+enbolivia.com 2016
 ==================
 
 Template inicial para el cambio de la web de enbolivia.com 
