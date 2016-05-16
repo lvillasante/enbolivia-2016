@@ -18,8 +18,8 @@ Para ver el ejemplo final: DEMO
 
 Varias opciones de descarga rápida están disponibles:
 
-* [Descarga la ultima version]( ).
-* Clonar el repositorio: ``.
+* [Descarga la ultima version](https://github.com/lvillasante/enbolivia-2016/archive/master.zip).
+* Clonar el repositorio: `https://github.com/lvillasante/enbolivia-2016.git`.
 
 
 ## Que se incluye
