@@ -1,0 +1,583 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.9.8",
+    "versionPublish": "2.9.8",
+    "name": "enbolivia-2016",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise"
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-e-30x30-12.png",
+    "publishType": "local",
+    "publishPath": "file:///F:/PROYECTOS/enbolivia.com%202016/Propuesta"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Los mejores sitios web en Bolivia - Diseño Web Bolivia - Desarrollo Web Bolivia - Diseño de páginas web - Desarrollo de sistemas web - Hosting, alojamiento y dominios",
+        "meta_descr": "enbolivia.com, la mejor empresa de sitios web y desarrollo de páginas web y portales web en Bolivia. Hosting (Alojamiento web) y registro de dominios. Posicionamiento web (SEO) y el mejor manejador de contenidos Web Site Publisher (WSP) garantizamos su presencia en Internet.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#28324e"
+            },
+            ".mbr-navbar__section": {
+              "background": "#28324e"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2",
+          "_params": {
+            "color": "#28324e",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-enbolivia-2012-500x190-95.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "enbolivia.com",
+              "link": "http://www.enbolivia.com/",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">INICIO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-4\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box3-7\">CLIENTES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-14\">NOSOTROS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-15\">CONTACTO</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"#\" data-toolbar=\"-mbrBtnMove\">COTIZADOR</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header1",
+          "_styles": {
+            "SPAN": {
+              "font-size": "36px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header1-3",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-home-02-1200x800-22.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "<span style=\"font-weight: normal;\">LOS MEJORES</span><br><span style=\"color: inherit; font-family: inherit;\">SITIOS / SISTEMAS WEB</span><br>",
+          "text": "<span style=\"font-size: 21px;\">Líderes en diseño y desarrollo Web en Bolivia desde <b>1999</b>.</span><br><br><span style=\"font-size: 21px;\">Nuestro negocio es la Web, nuestros servicios incluyen posicionamiento Web (SEO), Hosting y registro de dominios, Sistemas empresariales y Sistemas a medida.</span><br><br>Garantizamos su presencia en internet.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"#\" data-toolbar=\"-mbrBtnMove\">COTIZADOR online</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"#\" data-toolbar=\"-mbrBtnMove\">LEER MÁS</a>"
+        },
+        {
+          "_name": "features1",
+          "_anchor": "features1-4",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": true,
+            "showSubheader": true,
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "<p>NUESTROS SERVICIOS</p>",
+          "subheader": "El diseño Web y el desarrollo de sistemas basados en Web son el campo de mayor experiencia de enbolivia.com. Aprovechamos al máximo las tecnologías más novedosas para el desarrollo de sitios Web con la mejor calidad. Nuestros servicios incluyen:&nbsp;",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/icon-dev-big-256x256-89.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "desarrollo web",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title1": "DESARROLLO WEB",
+          "caption1": "Sistemas y aplicaciones has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites.",
+          "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEER MÁS</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/icon-hosting-big-256x256-32.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "hosting y dominio",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title2": "HOSTING Y DOMINIO",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEER MÁS</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/icon-sis1-big-256x256-70.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "sistemas empresariales",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title3": "Sistemas EMPRESARIALES",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website .",
+          "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEER MÁS</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/icon-sis2-big-256x256-37.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "sistemas a medida",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title4": "Sistemas A MEDIDA",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"#\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEER MÁS</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-5",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "COTIZACIÓN EN LÍNEA",
+          "text": "Le ofrecemos paquetes completos de acuerdo a su exigencia",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"#\" data-toolbar=\"-mbrBtnMove\">VAMOS AL COTIZADOR</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "font-size": "36px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "text-align": "center"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-7",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "NUESTROS CLIENTES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "A continuación nuestros más recientes clientes",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"#\" data-toolbar=\"-mbrBtnMove\">VER TODOS LOS CLIENTES</a>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/slide-cliente1-600x540-39-600x540-16.png",
+                "image": "@PROJECT_PATH@/assets/images/slide-cliente1-600x540-39.png",
+                "active": true
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/slide-cliente2-600x540-6-600x540-71.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide-cliente2-600x540-6.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/slide-cliente3-600x540-81-600x540-29.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide-cliente3-600x540-81.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/slide-cliente4-600x540-39-600x540-7.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide-cliente4-600x540-39.jpg",
+                "active": false
+              },
+              {
+                "thumb": "images/slide5-small.jpg",
+                "image": "images/slide5.jpg"
+              },
+              {
+                "thumb": "images/slide6-small.jpg",
+                "image": "images/slide6.jpg"
+              },
+              {
+                "thumb": "images/slide7-small.jpg",
+                "image": "images/slide7.jpg"
+              },
+              {
+                "thumb": "images/slide8-small.jpg",
+                "image": "images/slide8.jpg"
+              }
+            ],
+            "showText": false,
+            "bgColor": "#cccccc",
+            "fullWidth": true,
+            "noGutter": false
+          },
+          "_anchor": "gallery1-6",
+          "articleLayout": false
+        },
+        {
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            "B": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "header3-14",
+          "title": "NOSOTROS",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "Empresa líder en Soluciones en Internet<br><br>"
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-14",
+          "text": "<p><b>enbolivia.com</b> es una empresa líder en Soluciones en Internet, cuenta con diez años de experiencia en el mercado nacional e internacional.</p><p><br></p><p><b>enbolivia.com</b> ofrece un servicio completo, desde el análisis de sus necesidades, el desarrollo de su página web y el monitoreo y evaluación del uso de su sitio.</p><p><br></p><p><b>enbolivia.com</b> desarrolla tecnologías de punta cumpliendo con estándares internacionales para brindarle un mejor servicio y un excelente control de calidad.</p><p><br></p><p><b>enbolivia.com</b> le ofrece la mejor calidad y flexibilidad en el desarrollo de su solución empresarial, generando la relación óptima de costo-beneficio.</p><p><br></p><p><b>enbolivia.com</b> le ofrece el mayor apoyo en el uso y aplicación de Soluciones en Internet.</p><p><br></p><p><b>enbolivia.com</b> le ofrece tiempos reducidos para la puesta en marcha de su solución.</p><p><br></p><p><b>enbolivia.com</b> cuenta con más de diez profesionales permanentes y listos para servirlo.</p>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header4-13",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-nosotros-1200x800-7.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#41a85f",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "enbolivia.com",
+          "text": "<br>Empresa líder en Soluciones en Internet, cuenta con mas de diez años de experiencia en el mercado nacional e internacional.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"#\" data-toolbar=\"-mbrBtnMove\">LEER MÁS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"#\" data-toolbar=\"-mbrBtnMove\">NUESTRO EQUIPO</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"#\" data-toolbar=\"-mbrBtnMove\">TRABAJA CON NOSOTROS</a> "
+        },
+        {
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-15",
+          "title": "CONTACTO",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": ""
+        },
+        {
+          "text": "The Empire State Building was designed by William F. Lamb from the architectural firm Shreve, Lamb and Harmon.",
+          "_name": "map1",
+          "_anchor": "map1-10",
+          "_params": {
+            "address": "2061 Av. Sanches Lima, La Paz BO 591\n\n",
+            "info": "enbolivia.com"
+          },
+          "coord": [
+            -16.5080416,
+            -68.1305499
+          ]
+        },
+        {
+          "_name": "form1",
+          "_anchor": "form1-9",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "FORMULARIO DE CONTACTO",
+          "form": {
+            "action": "luis.villasante@gmail.com",
+            "alerts": {
+              "success": "Gracias por contactarse con nosotros. Le enviaremos una respuesta a la brevedad posible."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email *"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Teléfono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>"
+        },
+        {
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "social-buttons2-17",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "Síguenos en nuestras Redes Sociales",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"http://twitter.com/enboliviacom\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"http://www.facebook.com/enboliviacom\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/106319287281384836110?prsrc=3\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/enboliviacom\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-pinterest\" title=\"Pinterest\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-github\" title=\"GitHub\" target=\"_blank\" href=\"https://github.com/Mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-github\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-linkedin\" title=\"LinkedIn\" href=\"http://www.linkedin.com/company/enbolivia-com-s-r-l-\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-android\" title=\"Google Play\" target=\"_blank\" href=\"https://play.google.com/store/apps/details?id=test.enbolivia.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-android\"></i></a>"
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "contacts1-12",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-enbolivia-2012-500x190-13.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "http://www.enbolivia.com/",
+              "alt": "enbolivia.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "text1": "<strong>DIRECCIÓN</strong><br>Av. Sánchez Lima - No. 2061<br>Ed. Rosario - Piso 7 - Casilla 1706<br>",
+          "text2": "<strong>CONTACTOS</strong><br>\nEmail: &nbsp;info@enbolivia.com<br>Teléfono/Fax: (+591-2)2415690  (+591-2)2422542<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>INTERES&nbsp;</strong></p><ul class=\"mbr-contacts__list\"><li>Blog: enbolivia.wordpress.com</li><li><b>Miembro de:</b></li><li>RED TIC BOLIVIA</li><li><a href=\"#top\" class=\"text-white\">subir</a></li></ul>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-18",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 enbolivia.com &nbsp;&nbsp;| &nbsp;<a href=\"http://www.enbolivia.com/politicas_de_privacidad/1188/\" class=\"text-success\">Politicas de privacidad</a>"
+        }
+      ]
+    }
+  }
+}
