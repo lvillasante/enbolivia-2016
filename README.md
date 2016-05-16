@@ -3,7 +3,7 @@ enbolivia.com 2016
 
 Template inicial para el cambio de la web de enbolivia.com 
 
-Para ver el ejemplo final: DEMO 
+Para ver el ejemplo final: [DEMO](http://lvillasante.github.io/enbolivia-2016)
 
 ## Tabla de contenido
 
