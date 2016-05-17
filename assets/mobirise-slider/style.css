@@ -59,12 +59,16 @@
     position: relative;
     padding: 93px 0;
 }
+.mbr-slider > .boxed-slider > div{
+    position: relative;
+
+}
 .mbr-slider > .container .carousel-indicators {
-    margin-bottom: 93px;
+    margin-bottom: 3px;
 }
 @media (max-width: 767px) {
     .mbr-slider > .container .carousel-control {
-        margin-bottom: 93px;
+        margin-bottom: 0px;
     }
 }
 .mbr-slider > .container img {
