@@ -198,6 +198,9 @@ html {
   float: right;
   left: 0;
 }
+.float-left {
+  float: left;
+}
 .mbr-navbar__item {
   display: block;
   float: left;
@@ -287,6 +290,14 @@ html {
   .mbr-navbar--auto-collapse .mbr-navbar__column {
     display: block;
     width: 100%;
+  }
+  .mbr-navbar__column {
+    max-height: 100%;
+    overflow-x: hidden;
+    overflow-y:auto;
+  }
+  .mbr-navbar__column::-webkit-scrollbar {
+    display:none;
   }
   .mbr-navbar--auto-collapse .mbr-navbar__items--right {
     padding-top: 13px;
@@ -1254,6 +1265,12 @@ html {
   font-size: 15px !important;
 }
 @media (max-width: 991px) {
+  .mbr-buttons {
+    top: 0;
+  }
+  .mbr-buttons:first-child {
+    margin-top: 0;
+  }
   .mbr-buttons--active {
     left: 5px;
     text-align: center;
@@ -1262,6 +1279,9 @@ html {
   .mbr-buttons--active .mbr-buttons__link {
     margin-left: 0;
     margin-right: 0;
+  }
+  .mbr-buttons--right.mbr-buttons--only-links {
+    left: 0;
   }
   .mbr-buttons--active .mbr-buttons__link {
     font-size: 25px;
